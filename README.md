@@ -3,8 +3,6 @@
 Computer Science student passionate about Artificial Intelligence, Machine Learning, and Software Engineering.
 
 Currently learning:
-- Python
-- REST APIs
 - AI Engineering
 - Machine Learning
 

@@ -22,9 +22,8 @@ Currently learning:
 
 ## Current Projects
 
-- Personal Finance Tracker (Python)
-- AI Projects (coming soon)
-- Machine Learning Projects
+- 💰 [Personal Finance Tracker](https://github.com/VicodesRial/personal-finance-tracker) — A command-line application for tracking income, expenses, and monthly reports built with Python.
+
 
 ## Goals for 2026
 

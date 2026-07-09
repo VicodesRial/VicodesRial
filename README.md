@@ -20,10 +20,6 @@ Currently learning:
 
 🐙 Git & GitHub
 
-## Current Projects
-
-- 💰 [Personal Finance Tracker](https://github.com/VicodesRial/personal-finance-tracker) — A command-line application for tracking income, expenses, and monthly reports built with Python.
-
 
 ## Goals for 2026
 
@@ -34,6 +30,5 @@ Currently learning:
 
 ## Connect
 
-LinkedIn:
-Portfolio:
-Email:
+LinkedIn: https://www.linkedin.com/in/vicente-rial/?locale=en
+Email:vicenterial@live.com

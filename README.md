@@ -1,4 +1,4 @@
-# Hi, I'm Vic 👋
+# Hi, I'm Vicente
 
 I'm a Computer Science student building practical software and developing my skills in artificial intelligence, machine learning, and full-stack engineering. I enjoy turning ideas into useful applications, learning how systems work end to end, and writing software that is secure, maintainable, and easy to use.
 

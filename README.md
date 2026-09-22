@@ -11,7 +11,8 @@ I'm a Computer Science student building practical software and developing my ski
 
 ## Currently Learning
 
-- AI engineering and applied machine learning
+- Cloud engineering.
+- AI engineering
 - Production-ready full-stack application architecture
 - Data structures, algorithms, and software engineering fundamentals
 
@@ -38,11 +39,10 @@ A private tutor workspace for managing students, planning sessions, organizing c
 
 ## Career Goals
 
-- Earn the Python Institute Certified Associate Python Programmer credential
-- Build and publish 10 portfolio projects in 2026
-- Apply machine learning concepts in production-quality projects
+- Build and publish 3 portfolio projects in 2026
 - Contribute to open-source software and collaborate with other developers
-- Begin my career through a software engineering or AI internship
+- Begin my career through a software engineering or AI internship for summer 2027.
+- Get AWS certification.
 
 ## Connect
 

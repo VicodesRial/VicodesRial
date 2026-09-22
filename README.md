@@ -28,13 +28,13 @@ I'm a Computer Science student building practical software and developing my ski
 
 A multi-user internship search workspace for organizing applications, target companies, networking contacts, and weekly goals. Built with Next.js, TypeScript, Supabase Auth, PostgreSQL, and row-level security.
 
-### [CLI Weather Forecast Dashboard](https://github.com/VicodesRial/CLI-weather-forecast-dashboard)
+### LoveFrame *(Private Project)*
 
-A Python command-line application that retrieves current conditions and three-day forecasts from WeatherAPI, handles invalid input and network errors, and stores local search history.
+A lightweight, offline photo display for a Raspberry Pi Zero 2 W and touchscreen. Built with Python, Pillow, and Pygame, it features a fullscreen photo carousel, daily messages, touch navigation, timezone-aware scheduling, and a low-memory image pipeline.
 
-### [Personal Finance Tracker](https://github.com/VicodesRial/personal-finance-tracker)
+### [tutoir](https://tutoir.vercel.app)
 
-A Python command-line finance tool with transaction CRUD operations, JSON persistence, CSV import and export, and financial reports powered by Pandas.
+A private tutor workspace for managing students, planning sessions, organizing calendar views, assigning topic labels, and linking resources. Built with Next.js, TypeScript, Supabase, PostgreSQL, and row-level security.
 
 ## Career Goals
 
